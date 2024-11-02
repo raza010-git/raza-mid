@@ -1,3 +1,1 @@
-Raza Aslam 
-230365
-Devopps Mid
+Qno1 B Raza
